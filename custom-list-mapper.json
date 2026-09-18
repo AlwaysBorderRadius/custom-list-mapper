@@ -1,0 +1,27 @@
+{
+  "id": "custom-list-mapper",
+  "name": "Custom Lists to Status",
+  "version": "1.8.6",
+  "manifestURI": "https://raw.githubusercontent.com/AlwaysBorderRadius/custom-list-mapper/main/custom-list-mapper.json",
+  "language": "javascript",
+  "type": "plugin",
+  "description": "Maps AniList custom lists to virtual status lists so Seanime can see anime hidden from status lists.",
+  "author": "AlwaysBorderRadius",
+  "icon": "https://raw.githubusercontent.com/AlwaysBorderRadius/custom-list-mapper/main/icon.png",
+  "website": "https://github.com/AlwaysBorderRadius/custom-list-mapper",
+  "readme": "",
+  "notes": "",
+  "lang": "multi",
+  "payload": "",
+  "payloadURI": "https://raw.githubusercontent.com/AlwaysBorderRadius/custom-list-mapper/main/code.js",
+  "plugin": {
+    "version": "1",
+    "permissions": {
+      "scopes": [
+        "anilist",
+        "storage"
+      ]
+    }
+  },
+  "isDevelopment": false
+}
