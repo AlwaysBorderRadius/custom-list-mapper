@@ -113,7 +113,3 @@ Con Seanime hasta **v3.10.2**, al construir la colección de la librería bajo p
 
 - `code.js` — payload del plugin (JavaScript), v1.8.6.
 - `custom-list-mapper.json` — manifest de release (`isDevelopment: false`, payload servido desde este repo).
-
-## Licencia
-
-MIT.
