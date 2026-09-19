@@ -1,8 +1,10 @@
 <div align="center">
   
-[🇬🇧 English](#custom-lists-to-status-en) | [🇪🇸 Español](#custom-lists-to-status-es)
+[🇬🇧 English](#english) | [🇪🇸 Español](#spanish)
 
-# Custom Lists to Status (EN)
+<a id="english"></a>
+
+# 🇬🇧 Custom Lists to Status (EN)
 
 </div>
 
@@ -60,7 +62,9 @@ With Seanime up to **v3.10.2**, building the library collection under concurrent
 
 <div align="center">
 
-# Custom Lists to Status (ES)
+<a id="spanish"></a>
+
+# 🇪🇸 Custom Lists to Status (ES)
 
 </div>
 
