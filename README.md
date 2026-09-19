@@ -2,9 +2,9 @@
   
 [🇬🇧 English](#custom-lists-to-status-en) | [🇪🇸 Español](#custom-lists-to-status-es)
 
-</div>
-
 # 🇬🇧 Custom Lists to Status (EN)
+
+</div>
 
 A Seanime plugin that maps your **AniList custom lists** into **virtual status lists** (CURRENT / REPEATING / PLANNING / PAUSED / COMPLETED / DROPPED), so that Seanime can detect the anime you've marked as **'Hide from status lists'** in AniList — anime that only appear organized in your custom lists.
 
@@ -56,13 +56,13 @@ With Seanime up to **v3.10.2**, building the library collection under concurrent
 - `code.js` — plugin payload (JavaScript), v1.8.6.
 - `custom-list-mapper.json` — release manifest (`isDevelopment: false`, payload served from this repo).
 
-## License
-
-MIT.
-
 ---
 
+<div align="center">
+
 # 🇪🇸 Custom Lists to Status (ES)
+
+</div>
 
 Un plugin de Seanime que mapea tus **listas personalizadas de AniList** a **listas de estado virtuales** (CURRENT / REPEATING / PLANNING / PAUSED / COMPLETED / DROPPED), para que Seanime pueda detectar los animes que tienes marcados como **'Hide from status lists'** en AniList — animes que solo aparecen organizados en tus listas personalizadas.
 
